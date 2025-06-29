@@ -65,5 +65,12 @@ El contenido de este repositorio (scripts, documentos, código de característic
 
 ---
 
+## 🌐 Disponibilidad
+
+La tipografía **MiniBlock Pro** está disponible para consulta y adquisición en:  
+🔗 [https://bluetypo.com/site/en/2022/08/27/miniblock-pro/](https://bluetypo.com/site/en/2022/08/27/miniblock-pro/)
+
+---
+
 © Bluetypo y colaboradores de MiniBlock  
 [www.bluetypo.com](https://www.bluetypo.com)
