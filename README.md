@@ -8,28 +8,27 @@ MiniBlock está compuesta por múltiples estilos —incluyendo versiones 3D, con
 
 ## 📁 Estructura del Repositorio
 
-MiniBlock-Typeface-Scripts-Repository/
-├── scripts/ # Scripts para GlyphsApp, Python y OpenType features
-│ ├── align_nodes.py
-│ ├── ornaments_dlig.fea
+```
+.
+├── README.md # Documentación del repositorio
+├── LICENSE # Licencia del repositorio
+├── scripts/ # Scripts para GlyphsApp, Python y características OpenType
+│ ├── align_nodes.py # Alinea nodos semi-verticales/horizontales
+│ └── ornaments_dlig.fea # Ligaduras de ornamentos OpenType
 │
-├── tests/ # Reportes técnicos y validaciones
-│ ├── fontbakery-reports/
-│ └── screenshots/
+├── tests/ # Validaciones y reportes técnicos
+│ ├── fontbakery-reports/ # Reportes HTML y de consola de FontBakery
+│ └── screenshots/ # Capturas de pantalla de pruebas visuales
 │
-├── proofs/ # Especímenes, pruebas tipográficas y composiciones
-│ ├── PDF/
+├── proofs/ # Composiciones tipográficas y pruebas PDF
+│ └── PDF/
 │
-│
-├── resources/ # Documentación técnica, licencias y parámetros
+├── resources/ # Documentación técnica y licencias
 │ ├── documentation/
 │ └── EULA/
-│
-├── LICENSE
-└── README.md
-
-
+```
 ---
+
 
 ## 🛠️ Scripts incluidos
 
