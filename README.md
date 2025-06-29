@@ -20,8 +20,9 @@ MiniBlock está compuesta por múltiples estilos —incluyendo versiones 3D, con
 │ ├── fontbakery-reports/ # Reportes HTML y de consola de FontBakery
 │ └── screenshots/ # Capturas de pantalla de pruebas visuales
 │
-├── proofs/ # Composiciones tipográficas y pruebas PDF
+├── specimen/ # Composiciones tipográficas PDF
 │ └── PDF/
+│ └── img/
 │
 ├── resources/ # Documentación técnica y licencias
 │ ├── documentation/
