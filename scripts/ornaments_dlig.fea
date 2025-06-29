@@ -1,0 +1,84 @@
+lookupflag IgnoreMarks;
+sub scedilla t by scedilla_t;
+sub scommaaccent t by scommaaccent_t;
+
+# Esquinas y bordes
+  sub asterisk c zero one by ornament01;
+  sub asterisk c zero two by ornament02;
+  sub asterisk c zero three by ornament03;
+  sub asterisk c zero four by ornament04;
+  sub asterisk c zero five by ornament05;
+  sub asterisk c zero six by ornament06;
+  sub asterisk c zero seven by ornament07;
+  sub asterisk c zero eight by ornament08;
+  sub asterisk c zero nine by ornament09;
+  sub asterisk c one zero by ornament10;
+  sub asterisk c one one by ornament11;
+  sub asterisk c one two by ornament12;
+  sub asterisk c one three by ornament13;
+  sub asterisk c one four by ornament14;
+
+  # Conectores horizontales
+  sub asterisk h zero one by ornament19;
+  sub asterisk h zero two by ornament20;
+  sub asterisk h zero three by ornament21;
+  sub asterisk h zero four by ornament22;
+  sub asterisk h zero five by ornament23;
+  sub asterisk h zero six by ornament24;
+  sub asterisk h zero seven by ornament25;
+  sub asterisk h zero eight by ornament26;
+  sub asterisk h zero nine by ornament27;
+  sub asterisk h one zero by ornament28;
+  sub asterisk h one one by ornament32;
+  sub asterisk h one two by ornament33;
+  sub asterisk h one three by ornament34;
+  sub asterisk h one four by ornament35;
+  sub asterisk h one five by ornament36;
+  sub asterisk h one six by ornament37;
+  sub asterisk h one seven by ornament38;
+  sub asterisk h one eight by ornament39;
+  sub asterisk h one nine by ornament40;
+  sub asterisk h two zero by ornament41;
+  sub asterisk h two one by ornament42;
+  sub asterisk h two two by ornament43;
+  sub asterisk h two three by ornament44;
+  sub asterisk h two four by ornament45;
+  sub asterisk h two five by ornament46;
+  sub asterisk h two six by ornament15;
+  sub asterisk h two seven by ornament16;
+
+  # Conectores verticales
+  sub asterisk v zero one by ornament17;
+  sub asterisk v zero two by ornament18;
+  sub asterisk v zero three by ornament29;
+  sub asterisk v zero four by ornament30;
+  sub asterisk v zero five by ornament31;
+
+  # Ornamentos libres
+  sub asterisk o zero one by ornament47;
+  sub asterisk o zero two by ornament48;
+  sub asterisk o zero three by ornament49;
+  sub asterisk o zero four by ornament50;
+  sub asterisk o zero five by ornament51;
+  sub asterisk o zero six by ornament52;
+  sub asterisk o zero seven by ornament53;
+  sub asterisk o zero eight by ornament54;
+  sub asterisk o zero nine by ornament55;
+  sub asterisk o one zero by ornament56;
+  sub asterisk o one one by ornament57;
+  sub asterisk o one two by ornament58;
+  sub asterisk o one three by ornament59;
+  sub asterisk o one four by ornament60;
+  sub asterisk o one five by ornament61;
+  sub asterisk o one six by ornament62;
+  sub asterisk o one seven by ornament63;
+  sub asterisk o one eight by ornament64;
+  sub asterisk o one nine by ornament65;
+  sub asterisk o two zero by ornament66;
+  sub asterisk o two one by ornament67;
+  sub asterisk o two two by ornament68;
+  sub asterisk o two three by ornament69;
+  sub asterisk o two four by ornament70;
+  sub asterisk o two five by ornament71;
+  sub asterisk o two six by ornament72;
+  sub asterisk o two seven by ornament73;
