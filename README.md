@@ -17,6 +17,7 @@ MiniBlock está compuesta por múltiples estilos —incluyendo versiones 3D, con
 ├── scripts/ # Scripts para GlyphsApp, Python y características OpenType
 │ ├── align_nodes.py # Alinea nodos semi-verticales/horizontales
 │ └── ornaments_dlig.fea # Ligaduras de ornamentos OpenType
+│ └── verif_vertical_metrics.py # Verifica si hay glifos que sobresalen verticalmente
 │
 ├── tests/ # Validaciones y reportes técnicos
 │ ├── fontbakery-reports/ # Reportes HTML y de consola de FontBakery
