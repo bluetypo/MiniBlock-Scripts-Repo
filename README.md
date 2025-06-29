@@ -1,3 +1,5 @@
+![MiniBlock Specimen](specimen/img/web/MiniBlock03.png)
+
 # MiniBlock Typeface — Scripts Repository
 
 Este repositorio contiene herramientas, scripts y documentación utilizadas durante el desarrollo de la familia tipográfica **MiniBlock**, diseñada con un enfoque modular y experimental.
@@ -28,6 +30,7 @@ MiniBlock está compuesta por múltiples estilos —incluyendo versiones 3D, con
 │ ├── documentation/
 │ └── EULA/
 ```
+
 ---
 
 
