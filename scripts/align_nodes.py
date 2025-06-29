@@ -1,7 +1,8 @@
 from GlyphsApp import *
+from Foundation import NSPoint  # Necesario para mover nodos
 
 # Ajustes
-tolerancia = 2  # tolerancia máxima para considerar que un segmento es "casi" vertical u horizontal
+tolerancia = 1  # tolerancia máxima para considerar que un segmento es "casi" vertical u horizontal
 correcciones = 0
 
 for g in Glyphs.font.glyphs:
