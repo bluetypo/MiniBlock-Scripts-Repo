@@ -85,7 +85,6 @@ Para conflictos, las partes se someten a la jurisdicción de sus tribunales comp
 
 ---
 
-Los siguientes elementos reflejan conceptos presentes en EULAs como el de 205TF, adaptados a BlueTypo: :contentReference[oaicite:1]{index=1}
 
 - **A. Protección**
   Protección de derechos de copyright y secretos comerciales.
