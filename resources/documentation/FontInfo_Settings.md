@@ -4,7 +4,7 @@ Este archivo documenta los parámetros clave definidos en el archivo `.glyphs` p
 
 ---
 
-## 📁 Font Info → Font
+##  Font Info → Font
 
 - **Family Name:** MiniBlock
 - **Designer:** Bluetypo
@@ -17,7 +17,7 @@ Este archivo documenta los parámetros clave definidos en el archivo `.glyphs` p
 
 ---
 
-## 📐 Font Info → Masters
+##  Font Info → Masters
 
 ### Maestra principal
 - **Name:** Regular (o Condensed/3D según estilo)
@@ -45,11 +45,11 @@ Este archivo documenta los parámetros clave definidos en el archivo `.glyphs` p
 | `strikeoutSize`   | 50     |
 | `strikeoutPosition` | 680 _(desactivado)_ |
 
-> 📝 *Nota: No hay letras descendentes; el valor de `winDescent` se ajusta a 50 para igualar la separación vertical a la horizontal.*
+>  *Nota: No hay letras descendentes; el valor de `winDescent` se ajusta a 50 para igualar la separación vertical a la horizontal.*
 
 ---
 
-## 🧩 Features implementadas
+##  Features implementadas
 
 - `calt` — Alternantes contextuales
 - `dlig` — Ornamentos accesibles con combinaciones tipo `*01`, `*02`...
@@ -57,7 +57,7 @@ Este archivo documenta los parámetros clave definidos en el archivo `.glyphs` p
 
 ---
 
-## 🎯 Export Settings
+##  Export Settings
 
 - **Exportar como:** OTF / WOFF
 - **Hinting:** Desactivado / automático (según preferencia)
